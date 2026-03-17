@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/emirayar.github.io/portfolio-template/static/css/main.cd18a36c.css",
-    "main.js": "/emirayar.github.io/portfolio-template/static/js/main.9d90af5b.js",
-    "static/media/Oxanium.ttf": "/emirayar.github.io/portfolio-template/static/media/Oxanium.50bb18b058c797a89438.ttf",
-    "static/media/PhoenixGaming.ttf": "/emirayar.github.io/portfolio-template/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
-    "static/media/ZenDots.ttf": "/emirayar.github.io/portfolio-template/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
-    "static/media/PixelGame.otf": "/emirayar.github.io/portfolio-template/static/media/PixelGame.a7040ee1df82fd46813b.otf",
-    "index.html": "/emirayar.github.io/portfolio-template/index.html",
-    "main.cd18a36c.css.map": "/emirayar.github.io/portfolio-template/static/css/main.cd18a36c.css.map",
-    "main.9d90af5b.js.map": "/emirayar.github.io/portfolio-template/static/js/main.9d90af5b.js.map"
+    "main.css": "/portfolio-template/static/css/main.8e0f3c80.css",
+    "main.js": "/portfolio-template/static/js/main.ca7d577e.js",
+    "static/media/Oxanium.ttf": "/portfolio-template/static/media/Oxanium.50bb18b058c797a89438.ttf",
+    "static/media/PhoenixGaming.ttf": "/portfolio-template/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
+    "static/media/ZenDots.ttf": "/portfolio-template/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
+    "static/media/PixelGame.otf": "/portfolio-template/static/media/PixelGame.a7040ee1df82fd46813b.otf",
+    "index.html": "/portfolio-template/index.html",
+    "main.8e0f3c80.css.map": "/portfolio-template/static/css/main.8e0f3c80.css.map",
+    "main.ca7d577e.js.map": "/portfolio-template/static/js/main.ca7d577e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd18a36c.css",
-    "static/js/main.9d90af5b.js"
+    "static/css/main.8e0f3c80.css",
+    "static/js/main.ca7d577e.js"
   ]
 }
